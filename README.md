@@ -10,3 +10,25 @@ We want to be able to have it get over and around hazardous areas autonomously a
 - Reuben Watt
 - Taylor Medder
 - Dhugald Spry
+
+
+## Plan
+# Base plan
+
+# Wheels and legs planning
+
+
+# Sensor layout
+- Lidar to make a minimap to find entrys and exits.
+- Lidar to spin and map a room in 3d on unity
+- Camera to view through
+- Sensors on all 4 sides to help with obstacle avoidance and detection
+
+## Research links
+
+
+
+
+
+## Shopping List
+
