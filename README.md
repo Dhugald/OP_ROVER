@@ -6,29 +6,29 @@ The purpose of this project is to create an all terrain surverying robot, Used f
 We want to be able to have it get over and around hazardous areas autonomously and map out areas using a lidar to show any risks and areas of concern.
 
 
-## Members
+# Members
 - Reuben Watt
 - Taylor Medder
 - Dhugald Spry
 
 
-## Plan
-# Base plan
+# Plan
+## Base plan
 
-# Wheels and legs planning
+## Wheels and legs planning
 
 
-# Sensor layout
+## Sensor layout
 - Lidar to make a minimap to find entrys and exits.
 - Lidar to spin and map a room in 3d on unity
 - Camera to view through
 - Sensors on all 4 sides to help with obstacle avoidance and detection
 
-## Research links
+# Research links
 
 
 
 
 
-## Shopping List
+# Shopping List
 
