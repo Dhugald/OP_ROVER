@@ -26,6 +26,9 @@ We want to be able to have it get over and around hazardous areas autonomously a
 
 # Research links
 
+Nvidia Jetson? Possible replacement for the Raspberry Pi, Could be cool to try
+https://www.nvidia.com/en-us/autonomous-machines/jetson-store/
+
 
 
 
