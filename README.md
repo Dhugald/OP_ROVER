@@ -34,6 +34,8 @@ ROS with Lidar
 https://www.generationrobots.com/blog/en/lidar-integration-with-ros-quickstart-guide-and-projects-ideas/
 https://www.daslhub.org/unlv/wiki/doku.php?id=using_ros_to_read_data_from_a_hokuyo_scanning_laser_rangefinder
 
+ROS Tutorial:
+http://wiki.ros.org/ROS/Tutorials
 
 # Shopping List
 
