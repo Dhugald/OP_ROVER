@@ -45,4 +45,4 @@ ROS Tutorial:
 http://wiki.ros.org/ROS/Tutorials
 
 # Shopping List
-
+Possible Stepper Motors from JayCar https://www.jaycar.co.nz/arduino-compatible-5v-stepper-motor-with-controller/p/XC4458?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-I8mAoWuHBumeFN9Gpo8tAAJETvrxtpyf-LaF3YU_MHC2sovdrO0RBoCKjkQAvD_BwE
