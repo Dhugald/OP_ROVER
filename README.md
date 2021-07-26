@@ -29,8 +29,9 @@ We want to be able to have it get over and around hazardous areas autonomously a
 Nvidia Jetson? Possible replacement for the Raspberry Pi, Could be cool to try
 https://www.nvidia.com/en-us/autonomous-machines/jetson-store/
 
-
-
+ROS with Lidar
+https://www.generationrobots.com/blog/en/lidar-integration-with-ros-quickstart-guide-and-projects-ideas/
+https://www.daslhub.org/unlv/wiki/doku.php?id=using_ros_to_read_data_from_a_hokuyo_scanning_laser_rangefinder
 
 
 # Shopping List
