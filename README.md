@@ -14,6 +14,7 @@ We want to be able to have it get over and around hazardous areas autonomously a
 
 # Plan
 ## Base plan
+Drone is 54cm x 32cm base
 
 ## Wheels and legs planning
 
