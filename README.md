@@ -14,16 +14,23 @@ We want to be able to have it get over and around hazardous areas autonomously a
 
 # Plan
 ## Base plan
-Drone is 54cm x 32cm base
+
+Drone has a 540mm x 320mm base.
+Need to trim off the sides of the existing frame, maybe create a smaller box frame for the internal components?
 
 ## Wheels and legs planning
+750mm length for the rocker-bogie when set-up, need to calculate the total length of parts
+150mm diameter wheels (Similar to the ones used to farmbot(killbot) if possible to find).
 
+Might need to make a 3d model of the base and the legs to get a better feel of them.
 
 ## Sensor layout
 - Lidar to make a minimap to find entrys and exits.
 - Lidar to spin and map a room in 3d on unity
 - Camera to view through
 - Sensors on all 4 sides to help with obstacle avoidance and detection
+
+As a group we need to work out a sensor layout that we all agree on.
 
 # Research links
 
