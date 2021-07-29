@@ -53,6 +53,9 @@ https://software.nasa.gov/
 Open Source Scaled Down 6 wheeled rover:
 https://github.com/nasa-jpl/open-source-rover
 
+CAD Parts for it: 
+https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/rocker_bogie
+
 # Shopping List
 (Possible Stepper Motors from JayCar https://www.jaycar.co.nz/arduino-compatible-5v-stepper-motor-with-controller/p/XC4458?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-I8mAoWuHBumeFN9Gpo8tAAJETvrxtpyf-LaF3YU_MHC2sovdrO0RBoCKjkQAvD_BwE - Have a feeling these will be to small for the work load.)
 
