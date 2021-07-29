@@ -47,6 +47,9 @@ http://wiki.ros.org/ROS/Tutorials
 Information on stepper motors:
 https://nz.rs-online.com/web/generalDisplay.html?id=ideas-and-advice/stepper-motors-guide
 
+NASA software:
+https://software.nasa.gov/
+
 # Shopping List
 (Possible Stepper Motors from JayCar https://www.jaycar.co.nz/arduino-compatible-5v-stepper-motor-with-controller/p/XC4458?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-I8mAoWuHBumeFN9Gpo8tAAJETvrxtpyf-LaF3YU_MHC2sovdrO0RBoCKjkQAvD_BwE - Have a feeling these will be to small for the work load.)
 
