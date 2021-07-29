@@ -61,3 +61,7 @@ https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/rocker_bogi
 
 Wheels, the same ones from farmbot:
 https://shop.wheelco.co.nz/shop//Wheels/Rubber+Wheels/Zero+Pressure+Wheel+150mm+-+Offset+Hub+-+ZPM150B.html
+
+Possible stepper motors, might change type of motors.
+https://www.digikey.co.nz/product-detail/en/trinamic-motion-control-gmbh/QSH6018-56-28-165/1460-1082-ND/4843432
+https://www.digikey.co.nz/product-detail/en/trinamic-motion-control-gmbh/QSH6018-56-28-165/1460-1082-ND/4843433
