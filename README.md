@@ -68,3 +68,6 @@ https://shop.wheelco.co.nz/shop//Wheels/Rubber+Wheels/Zero+Pressure+Wheel+150mm+
 Possible stepper motors, might change type of motors.
 https://www.digikey.co.nz/product-detail/en/trinamic-motion-control-gmbh/QSH6018-56-28-165/1460-1082-ND/4843432
 https://www.digikey.co.nz/product-detail/en/trinamic-motion-control-gmbh/QSH6018-56-28-165/1460-1082-ND/4843433
+
+Coupler for wheel and wheel motor 
+https://www.jaycar.co.nz/solid-shaft-couplers-female-type-ii/p/YG2602?pos=1&queryId=4b0afef208a4a262bed3c274e3180ced&sort=relevance
