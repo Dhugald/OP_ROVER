@@ -15,7 +15,7 @@ We want to be able to have it get over and around hazardous areas autonomously a
 # Plan
 ## Base plan
 
-Drone has a 540mm x 320mm base.
+Rover has a 540mm x 320mm base.
 Need to trim off the sides of the existing frame, maybe create a smaller box frame for the internal components?
 
 ## Wheels and legs planning
@@ -58,6 +58,12 @@ https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/rocker_bogi
 
 Lidar 3D scan:
 https://www.youtube.com/watch?v=gCpCGkwwy8I&ab_channel=TechsOnTube
+
+
+# 3D printed parts list
+
+Wheels (Need to be edited for casting):
+
 
 # Shopping List
 (Possible Stepper Motors from JayCar https://www.jaycar.co.nz/arduino-compatible-5v-stepper-motor-with-controller/p/XC4458?gclid=CjwKCAjwuvmHBhAxEiwAWAYj-I8mAoWuHBumeFN9Gpo8tAAJETvrxtpyf-LaF3YU_MHC2sovdrO0RBoCKjkQAvD_BwE - Have a feeling these will be to small for the work load.)
