@@ -77,3 +77,6 @@ https://www.digikey.co.nz/product-detail/en/trinamic-motion-control-gmbh/QSH6018
 
 Coupler for wheel and wheel motor 
 https://www.jaycar.co.nz/solid-shaft-couplers-female-type-ii/p/YG2602?pos=1&queryId=4b0afef208a4a262bed3c274e3180ced&sort=relevance
+
+Slipring
+https://core-electronics.com.au/slip-ring-with-flange-22mm-diameter-6-wires-max-240v-at-2a.html
