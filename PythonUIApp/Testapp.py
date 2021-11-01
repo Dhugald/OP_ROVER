@@ -4,14 +4,14 @@ import cv2
 import time
 # Send Action to Control Rover
 def rover(action):
-    if action == "FORWARD":
-        print('F')
+    if action == "UP":
+        print('U') #Implement controls for the camera later
     if action == "LEFT":
-        print('L')
+        print('L') #Implement controls for the camera later
     if action == "RIGHT":
-        print('R')
-    if action == "STOP":
-        print('S')
+        print('R') #Implement controls for the camera later
+    if action == "DOWN":
+        print('D') #Implement controls for the camera later
 
 # All the stuff inside your window.
 font = "Ariel 32"
