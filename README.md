@@ -59,6 +59,12 @@ https://github.com/nasa-jpl/open-source-rover/tree/master/mechanical/rocker_bogi
 Lidar 3D scan:
 https://www.youtube.com/watch?v=gCpCGkwwy8I&ab_channel=TechsOnTube
 
+Curiosity Rover 3D model and part descriptions:
+https://mars.nasa.gov/msl/rover-3d/
+
+Some More Images for ideas on the differential bar and rocker bogie system:
+https://beatty-robotics.com/curiosity-mars-rover/
+
 
 # 3D printed parts list
 
