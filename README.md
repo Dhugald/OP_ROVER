@@ -79,8 +79,10 @@ https://www.youtube.com/watch?v=NOZZMsMAGh0&ab_channel=HowToMechatronics
 https://howtomechatronics.com/projects/diy-mars-perseverance-rover-replica-with-arduino/
 
 ROS rover project, might have some useful information on the OS:
-
 https://github.com/danielsnider/ros-rover
+
+Example of what ROS can do, Ardupilot used to set a path:
+https://www.youtube.com/watch?v=tqVH4lWk51Y&ab_channel=RandyMackay
 
 # 3D printed parts list
 
