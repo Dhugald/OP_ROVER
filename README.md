@@ -65,6 +65,8 @@ https://mars.nasa.gov/msl/rover-3d/
 Some More Images for ideas on the differential bar and rocker bogie system:
 https://beatty-robotics.com/curiosity-mars-rover/
 
+Lidar object detection:
+https://www.youtube.com/watch?v=_--8K1BW_O4&t=2s&ab_channel=GreatScott%21
 # Similar Projects
 
 Uses Ardupilot and ROS, Contains alot of information and ideas that we can use:
