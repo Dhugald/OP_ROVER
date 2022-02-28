@@ -78,6 +78,10 @@ A replica of the Perseverance rover, includes code and other helpful hints in th
 https://www.youtube.com/watch?v=NOZZMsMAGh0&ab_channel=HowToMechatronics
 https://howtomechatronics.com/projects/diy-mars-perseverance-rover-replica-with-arduino/
 
+ROS rover project, might have some useful information on the OS:
+
+https://github.com/danielsnider/ros-rover
+
 # 3D printed parts list
 
 Wheels (Need to be edited for casting):
