@@ -65,6 +65,18 @@ https://mars.nasa.gov/msl/rover-3d/
 Some More Images for ideas on the differential bar and rocker bogie system:
 https://beatty-robotics.com/curiosity-mars-rover/
 
+# Similar Projects
+
+Uses Ardupilot and ROS, Contains alot of information and ideas that we can use:
+https://dronebotworkshop.com/6-wheel-rover-introduction/
+
+6 Wheeled Mars rover design for terrain traversing, equipment servicing, astronaut assistance and on-board testing.
+More detailed and hightech than what we are going for but still contains information that might be usefull:
+https://www.researchgate.net/publication/313543991_6_Wheeled_Mars_rover_design_for_terrain_traversing_equipment_servicing_astronaut_assistance_and_on-board_testing
+
+A replica of the Perseverance rover, includes code and other helpful hints in the guide:
+https://www.youtube.com/watch?v=NOZZMsMAGh0&ab_channel=HowToMechatronics
+https://howtomechatronics.com/projects/diy-mars-perseverance-rover-replica-with-arduino/
 
 # 3D printed parts list
 
