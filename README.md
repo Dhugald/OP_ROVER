@@ -86,6 +86,9 @@ https://github.com/danielsnider/ros-rover
 Example of what ROS can do, Ardupilot used to set a path:
 https://www.youtube.com/watch?v=tqVH4lWk51Y&ab_channel=RandyMackay
 
+Really useful robot, uses ROS:
+https://youtu.be/M9ABtlEM788
+
 # 3D printed parts list
 
 Wheels (Need to be edited for casting):
