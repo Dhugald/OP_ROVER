@@ -70,6 +70,7 @@ https://www.youtube.com/watch?v=_--8K1BW_O4&t=2s&ab_channel=GreatScott%21
 
 Stepper motors:
 https://www.youtube.com/watch?v=bkqoKWP4Oy4&ab_channel=GreatScott%21
+https://www.youtube.com/watch?v=fHAO7SW-SZI&ab_channel=iforce2d
 # Similar Projects
 
 Uses Ardupilot and ROS, Contains alot of information and ideas that we can use:
