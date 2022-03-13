@@ -75,6 +75,11 @@ https://www.youtube.com/watch?v=fHAO7SW-SZI&ab_channel=iforce2d
 ROS tutorial:
 https://www.youtube.com/watch?v=9U6GDonGFHw&ab_channel=JustinHuang
 
+ROS lectures:
+7 videos total From what I've seen will be really helpful.
+https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP
+
+
 # Similar Projects
 
 Uses Ardupilot and ROS, Contains alot of information and ideas that we can use:
