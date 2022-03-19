@@ -68,6 +68,9 @@ https://beatty-robotics.com/curiosity-mars-rover/
 Lidar object detection:
 https://www.youtube.com/watch?v=_--8K1BW_O4&t=2s&ab_channel=GreatScott%21
 
+Some More Lidar Info For 3d Scan
+http://charleslabs.fr/en/project-3D+Lidar+Scanner
+
 Stepper motors:
 https://www.youtube.com/watch?v=bkqoKWP4Oy4&ab_channel=GreatScott%21
 https://www.youtube.com/watch?v=fHAO7SW-SZI&ab_channel=iforce2d
