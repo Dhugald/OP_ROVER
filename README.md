@@ -82,6 +82,9 @@ ROS lectures:
 7 videos total From what I've seen will be really helpful.
 https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP
 
+Using a lidar for robot nav:
+https://www.youtube.com/watch?v=OJNNm6iMOKk&ab_channel=TheLinuxFoundation
+
 
 # Similar Projects
 
