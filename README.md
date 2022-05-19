@@ -68,9 +68,24 @@ https://beatty-robotics.com/curiosity-mars-rover/
 Lidar object detection:
 https://www.youtube.com/watch?v=_--8K1BW_O4&t=2s&ab_channel=GreatScott%21
 
+Some More Lidar Info For 3d Scan
+http://charleslabs.fr/en/project-3D+Lidar+Scanner
+
 Stepper motors:
 https://www.youtube.com/watch?v=bkqoKWP4Oy4&ab_channel=GreatScott%21
 https://www.youtube.com/watch?v=fHAO7SW-SZI&ab_channel=iforce2d
+
+ROS tutorial:
+https://www.youtube.com/watch?v=9U6GDonGFHw&ab_channel=JustinHuang
+
+ROS lectures:
+7 videos total From what I've seen will be really helpful.
+https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP
+
+Using a lidar for robot nav:
+https://www.youtube.com/watch?v=OJNNm6iMOKk&ab_channel=TheLinuxFoundation
+
+
 # Similar Projects
 
 Uses Ardupilot and ROS, Contains alot of information and ideas that we can use:
