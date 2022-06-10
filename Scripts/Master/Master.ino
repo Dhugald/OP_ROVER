@@ -64,34 +64,39 @@ void getState() {
   Serial.println(sensor3dist);
   Serial.println(sensor4dist);
   
-  if (sensor1dist < 15) {
+  if (sensor1dist < 15 && sensor2dist > 15 && sensor3dist > 15 && sensor4dist > 15) {
     state = BACK;
   }
-  else if (sensor2dist < 15) {
+  else if (sensor2dist < 15 && sensor3dist > 15 && sensor4dist > 15 && sensor1dist > 15) {
     state = RIGHT;
   }
-  else if (sensor3dist < 15) {
+  else if (sensor3dist < 15 && sensor4dist > 15 && sensor1dist > 15 && sensor2dist > 15) {
     state = LEFT;
   }
-  else if (sensor4dist < 15) {
+  else if (sensor4dist < 15 && sensor1dist > 15 && sensor2dist > 15 && sensor3dist > 15) {
     state = FORWARD;
   }
-  else if (sensor1dist < 15 && sensor2dist < 15) {
+  else if (sensor1dist < 15 && sensor2dist < 15 && sensor3dist > 15 && sensor4dist > 15) {
     state = BACKLEFT;
   }
-  else if (sensor1dist < 15 && sensor3dist < 15) {
+  else if (sensor1dist < 15 && sensor3dist < 15 && sensor2dist > 15 && sensor4dist > 15) {
     state = BACKRIGHT;
   }
-  else if (sensor4dist < 15 && sensor2dist < 15) {
+  else if (sensor4dist < 15 && sensor2dist < 15 && sensor3dist > 15 && sensor1dist > 15) {
     state = FORWARDLEFT;
   }
-  else if (sensor4dist < 15 && sensor3dist < 15) {
+  else if (sensor4dist < 15 && sensor3dist < 15 && sensor2dist > 15 && sensor1dist > 15) {
     state = FORWARDRIGHT;
   }
+  else if (sensor1dist > 15 && sensor2dist > 15 && sensor3dist > 15 && sensor4dist > 15) {
+    state = STOP;
+  }
+  
   else {
     state = FORWARD;
   }
   sendState(state);
+  //delay(2500);
 }
 //function to send the state to the slavess
 static sendState(states st) {
